@@ -27,5 +27,4 @@ print(dock)
 ## Examples
 
 We have provided 4 examples in `./exapmples`. The first example uses the colour module to read any colour that hovers over the sensor. The second one uses the LED Matrix to randomly flash a pixel. The third one displays a random 4-digit number on the number display.
-
-Our fourth example is a bit bigger, since it uses two modules. The barometer and the rainbow display are used to display a colour on the rainbow depending on the air pressure.
+Our fourth example is a bit bigger, since it uses two modules. The barometer and the rainbow display are used to display a colour on the rainbow depending on the air pressure. 
