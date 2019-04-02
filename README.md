@@ -1,6 +1,10 @@
 # Flotilla
 
+This repository is an introduction and research report about Flotilla's Mega Treasure Chest.
+
 ## Installation and setup
+
+*If you are not familiar with the Raspberry Pi, follow the extended instructions in* `./assets/docs/report.md`
 
 **Step 1:** You purchase and take out the Mega Treasure Chest from flotilla. If you do not have one available, you can get it from [this webiste](https://shop.pimoroni.com/products/flotilla-mega-treasure-chest).
 
@@ -26,5 +30,5 @@ print(dock)
 
 ## Examples
 
-We have provided 4 examples in `./exapmples`. The first example uses the colour module to read any colour that hovers over the sensor. The second one uses the LED Matrix to randomly flash a pixel. The third one displays a random 4-digit number on the number display.
+We have provided 4 examples in `./examples`. The first example uses the colour module to read any colour that hovers over the sensor. The second one uses the LED Matrix to randomly flash a pixel. The third one displays a random 4-digit number on the number display.
 Our fourth example is a bit bigger, since it uses two modules. The barometer and the rainbow display are used to display a colour on the rainbow depending on the air pressure.
