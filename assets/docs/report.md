@@ -10,7 +10,6 @@
    2. Flotilla Dock
 3. Components
 4. Creating your own project
-5. ...
 
 ## Introduction
 
